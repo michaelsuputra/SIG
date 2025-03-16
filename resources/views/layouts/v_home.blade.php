@@ -6,7 +6,7 @@
 <table class="table table-bordered" style="width: 80%; margin: auto; margin-top: 20px; border: 4px;">
     <thead>
         <tr>
-            <th>Nama</th>
+            <th>Name</th>
             <th>Latitude</th>
             <th>Longitude</th>
             <th>Aksi</th>
